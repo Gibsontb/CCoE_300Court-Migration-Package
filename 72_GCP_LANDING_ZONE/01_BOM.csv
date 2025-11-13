@@ -1,0 +1,11 @@
+Domain,Component,Notes
+Identity,"IdP Federation, GCP IAM/Entra/Cloud Identity/OCI IAM",Central RBAC/MFA
+Network,"Hub/Spoke, Private Endpoints, LB, NAT",Transit/ER/Interconnect/FastConnect
+Security,"WAF, IDS/IPS, EDR, DLP",Tie to SIEM/SOAR
+Key Mgmt,KMS/HSM/Vault,Customer‑managed keys
+Logging,Cloud logs + SIEM,Immutable + retention
+Compute,"VMs, Containers, Serverless",Hardened images
+Data,"Object, Block, DBaaS",Encryption + backup
+DevOps,"Repos, Pipelines, Artifacts",Policy gates + attestations
+Observability,"Metrics, Tracing, APM",SLOs + error budgets
+Operations,"ITSM, CMDB, CMP",Runbooks + SLAs

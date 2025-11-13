@@ -1,0 +1,10 @@
+criterion,weight(0-5),score(0-5),weighted_score,notes
+Compliance & Residency,5,,,
+Latency & Network,4,,,
+Required Services,4,,,
+Identity/Access Fit,3,,,
+License/Contract Leverage,3,,,
+Cost/FinOps,3,,,
+Resilience/DR,3,,,
+Data Gravity,2,,,
+Portability/Exit,2,,,

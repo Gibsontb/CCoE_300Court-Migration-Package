@@ -1,0 +1,6 @@
+Function,AOUSC,CCoE,Court,CSP,Notes
+Identity & Access,A,R,C,C,Court IT approves local roles; CCoE enforces policies
+Logging & SIEM,A,R,C,C,Immutable logs; legal hold
+Change Control,A,R,C,C,CCB cadence weekly
+Incident Response,A,R,C,C,24x7 triage; tabletop exercises
+FinOps,A,R,C,C,Budgets & anomaly detection per court
